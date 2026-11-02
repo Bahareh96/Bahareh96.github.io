@@ -17,7 +17,7 @@ Save your portrait as `assets/portrait.jpg`. Your supplied portrait is included 
 
 ## Edit content
 
-Edit index.html for biography, publications, links, and education. Edit style.css for colors and layout. Replace assets/Bahareh_Dokhaei_CV.pdf with your updated CV, keeping the same filename. The downloadable CV is the supplied PDF, including its contact details.
+Edit index.html for biography, publications, links, and education. Edit style.css for colors and layout. The CV links and PDF have been removed from this version.
 
 Google Sites is an alternative for manual editing; these files are intended for GitHub Pages and cannot be directly imported as a Google Sites design.
 
@@ -26,3 +26,9 @@ Google Sites is an alternative for manual editing; these files are intended for 
 Open index.html in a browser. For a local server, run `python3 -m http.server 8000` in this folder and visit http://localhost:8000.
 
 Content source: supplied 02_Dokhaei_CV_3.pdf. Prepared November 2, 2026. Publication metadata reproduced from that CV. This package has not been deployed to a GitHub account.
+
+## Four-page website
+Home (index.html) includes biography, education, experience, and awards. Research (research.html) contains the complete research section moved from Home. Publications (publications.html) and Teaching and Services (service.html) remain separate pages. Upload all HTML files and style.css to your repository root, retaining the assets folder.
+
+## Current navigation
+Home, Publications, and Teaching and Services. Teaching and Services share service.html. teaching.html redirects old links to the combined page.
