@@ -1,6 +1,8 @@
 # Bahareh Dokhaei — Academic website
+Personal academic website of Bahareh Dokhaei, Ph.D. Candidate in Structural Engineering at Iowa State University.
 
-A static website prepared from the supplied CV. No build tools are required.
+The website provides information about my research, publications, teaching experience, and academic activities.
+
 
 ## Publish on GitHub Pages
 
